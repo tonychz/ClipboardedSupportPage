@@ -1,2 +1,2 @@
 # SimpleTextKeeperSupportPage
-Simple Text Keeper: Quick Text Keeping Made Easy
+Support/Dev Page
