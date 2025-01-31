@@ -1,2 +1,2 @@
-# SimpleTextKeeperSupportPage
+# ClipboardedSupportPage
 Support/Dev Page
